@@ -2,8 +2,6 @@
 @section('content')
 
 <div class="col-lg-8">
-    
-    <img src="{{ asset('front/img/ilegal-access2.png') }}" style="height: 400px; weight:400px;">
 
     @auth
     <h1 class="mt-4">Manajemen Artikel</h1>
